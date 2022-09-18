@@ -4,6 +4,7 @@ import numpy as np
 from datetime import datetime
 
 CTG_THRESHOLD = 2
+
 CONVEXITY_THRESHOLD = 2
 
 def fw_curve_class(ctg, cnvxty):
